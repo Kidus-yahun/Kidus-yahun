@@ -25,15 +25,6 @@ class Kidus:
 
 ---
 
-### 🌐 Connect With Me
-
-- 💬 **Telegram**: [@gromata](https://t.me/gromata)
-- 📸 **Instagram**: [@kidus_ya3](https://www.instagram.com/kidus_ya3/)
-- 📫 **Email**: [yahunsewkidus@gmail.com](mailto:yahunsewkidus@gmail.com)
-- 🐙 **GitHub**: [@Kidus-yahun](https://github.com/Kidus-yahun)
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
