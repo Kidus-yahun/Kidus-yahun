@@ -1,15 +1,47 @@
 <h1 align="center">ሰላም 👋🏽, I'm <a href="https://github.com/Kidus-yahun" target="_blank">Kidus Yahunsew</a></h1>
-<h3 align="center">Cybersecurity Enthusiast & Software Builder</h3>
 
-- 🔭 Working on an **AI-powered phishing defense extension called [Anti-Phish](https://github.com/Kidus-yahun/anti_phishing_extension)**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=89DCEB&center=true&vCenter=true&width=550&lines=Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Building+AI+Phishing+Defense+Engines+%F0%9F%A4%96;Full-Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;Building+Tech+Solutions+for+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing Banner" />
+</p>
 
-- 🚌 Building a smart transit & trip planner app called [**SmartBus**](https://github.com/Kidus-yahun/Smart-Bus-Booking)
+```python
+class Kidus:
+    def __init__(self):
+        self.alias = "K_D"
+        self.location = "Ethiopia 🇪🇹"
+        self.interests = ["Cybersecurity", "AI Defense Systems", "Civic Tech"]
+        self.current_stack = ["Python", "Django", "Flutter", "Kali Linux", "TypeScript"]
 
-- 🌱 Learning **Ethical Hacking, Kali Linux tools & Threat Forensics**
+    def philosophy(self):
+        return "Spot the gaps, engineer the defense, build for impact."
+```
 
-- 🕸️ Sharing ideas & cheatsheets on my [**Telegram Channel**](https://t.me/KDCHEATCODE)
+### ⚡ What I'm Up To
 
-<h2 align="center"></h2>
+- 🛡️ **Defending Users**: Building [**Anti-Phish**](https://github.com/Kidus-yahun/anti_phishing_extension) — Real-time MV3 phishing defense with AI/NLP, typosquatting detection, & email forensics.
+- 🎓 **Empowering Students**: Developing [**Ethio-Matrix**](https://github.com/Kidus-yahun/Ethio-matrix) — Grade 12 exam preparation platform built with Python & Django.
+- 🚌 **Smart Cities**: Developing [**SmartBus**](https://github.com/Kidus-yahun/Smart-Bus-Booking) — Map-based transit platform to locate stations and plan routes in real-time.
+- 🔐 **Security & Auditing**: Actively exploring Kali Linux tooling, penetration testing, and security forensics.
+- 🕸️ **Community & Cheatsheets**: Sharing tips, security guides & tools on my [**Telegram Channel (@KDCHEATCODE)**](https://t.me/KDCHEATCODE).
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,ts,kali,linux,bash,mongodb,mysql,git,figma&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+### 📈 Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kidus-yahun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=89DCEB&icon_color=89DCEB" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidus-yahun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=89DCEB" height="150" alt="Top Languages" />
+</div>
+
+---
 
 <p align="center">
   <a href="mailto:yahunsewkidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" /></a>
