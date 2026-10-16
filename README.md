@@ -21,8 +21,16 @@ class Kidus:
 - 🛡️ **Defending Users**: Building [**Anti-Phish**](https://github.com/Kidus-yahun/anti_phishing_extension) — Real-time MV3 phishing defense with AI/NLP, typosquatting detection, & email forensics.
 - 🎓 **Empowering Students**: Developing [**Ethio-Matrix**](https://github.com/Kidus-yahun/Ethio-matrix) — Grade 12 exam preparation platform built with Python & Django.
 - 🚌 **Smart Cities**: Developing [**SmartBus**](https://github.com/Kidus-yahun/Smart-Bus-Booking) — Map-based transit platform to locate stations and plan routes in real-time.
-- 🔐 **Security & Auditing**: Actively exploring Kali Linux tooling, penetration testing, and security forensics.
-- 🕸️ **Community & Cheatsheets**: Sharing tips, security guides & tools on my [**Telegram Channel (@KDCHEATCODE)**](https://t.me/KDCHEATCODE).
+- 🌱 **Currently Learning**: **Ethical Hacking, Kali Linux tools & Threat Forensics**.
+
+---
+
+### 🌐 Connect With Me
+
+- 💬 **Telegram**: [@gromata](https://t.me/gromata)
+- 📸 **Instagram**: [@kidus_ya3](https://www.instagram.com/kidus_ya3/)
+- 📫 **Email**: [yahunsewkidus@gmail.com](mailto:yahunsewkidus@gmail.com)
+- 🐙 **GitHub**: [@Kidus-yahun](https://github.com/Kidus-yahun)
 
 ---
 
@@ -44,8 +52,8 @@ class Kidus:
 ---
 
 <p align="center">
-  <a href="mailto:yahunsewkidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" /></a>
-  <a href="https://t.me/KDCHEATCODE" target="_blank"><img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&colorA=302D41&colorB=89DCEB" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/kidus_ya3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=f5c2e7" alt="Instagram" /></a>
-  <a href="https://github.com/Kidus-yahun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&colorA=302D41&colorB=ABE9B3" alt="GitHub" /></a>
+  <a href="mailto:yahunsewkidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-yahunsewkidus%40gmail.com-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" /></a>
+  <a href="https://t.me/gromata" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40gromata-24A1DE?style=for-the-badge&logo=telegram&colorA=302D41&colorB=89DCEB" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/kidus_ya3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40kidus__ya3-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=f5c2e7" alt="Instagram" /></a>
+  <a href="https://github.com/Kidus-yahun" target="_blank"><img src="https://img.shields.io/badge/GitHub-Kidus--yahun-181717?style=for-the-badge&logo=github&colorA=302D41&colorB=ABE9B3" alt="GitHub" /></a>
 </p>
