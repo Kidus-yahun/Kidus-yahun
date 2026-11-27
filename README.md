@@ -19,8 +19,9 @@ class Kidus:
 ### ⚡ What I'm Up To
 
 - 🌐 **Interactive Portfolio**: Check out my work & case studies at [**kidus-yahun.github.io/portfolio**](https://kidus-yahun.github.io/portfolio/#work).
+- 📚 **National Exam Prep Platform**: Building [**Past Exam Library**](https://github.com/Kidus-yahun/past-exam-library) ([Live Web App](https://catholic-past-exam-library.vercel.app)) — Gamified split-screen study desk with offline AI tutor Archie, serving **2,300+ active students** across Ethiopia.
 - 🛡️ **Defending Users**: Building [**Anti-Phish**](https://github.com/Kidus-yahun/anti_phishing_extension) — Real-time MV3 phishing defense with AI/NLP, typosquatting detection, & email forensics.
-- 🎓 **Empowering Students**: Developing [**Ethio-Matrix**](https://github.com/Kidus-yahun/Ethio-matrix) — Grade 12 exam preparation platform built with Python & Django.
+- 🎓 **Civic EdTech**: Developing [**Ethio-Matrix**](https://github.com/Kidus-yahun/Ethio-matrix) — Grade 12 exam preparation platform built with Python & Django.
 - 🚌 **Smart Cities**: Developing [**SmartBus**](https://github.com/Kidus-yahun/Smart-Bus-Booking) — Map-based transit platform to locate stations and plan routes in real-time.
 - 🌱 **Currently Learning**: **Ethical Hacking, Kali Linux tools & Threat Forensics**.
 
